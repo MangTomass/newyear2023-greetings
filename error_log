@@ -1,0 +1,7 @@
+[29-Dec-2023 10:56:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/betawebc/public_html/jmbataller.site/greet/index.php on line 24
+[29-Dec-2023 10:56:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/betawebc/public_html/jmbataller.site/greet/index.php on line 24
+[29-Dec-2023 10:56:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/betawebc/public_html/jmbataller.site/greet/index.php on line 24
+[29-Dec-2023 10:56:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/betawebc/public_html/jmbataller.site/greet/index.php on line 24
+[29-Dec-2023 11:57:28 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/betawebc/public_html/jmbataller.site/greet/index.php on line 43
+[29-Dec-2023 12:59:33 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/betawebc/public_html/jmbataller.site/greet/config.php on line 8
+[29-Dec-2023 12:59:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/betawebc/public_html/jmbataller.site/greet/config.php on line 8
