@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; // e.g., 'localhost'
-$username = 'betawebc_greetings';
-$password = 'Userpass@12345';
-$database = 'betawebc_greetings'; // Database name
+$username = 'localhost_username';
+$password = 'localhost_password';
+$database = 'localhost_dbname'; // Database name
 
 // Create a database connection
 $conn = new mysqli($host, $username, $password, $database);
